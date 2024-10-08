@@ -9,7 +9,7 @@ An application for blood donation and receiving.
   </tr>
   <tr>
     <td>
-      <img src="![1](https://github.com/user-attachments/assets/7a7723a0-1611-4545-ae3e-531f20169a1a)" width="240" height="500">
+      <img src="https://github.com/user-attachments/assets/7a7723a0-1611-4545-ae3e-531f20169a1a" width="240" height="500">
     </td>
     <td>
       <img src="![2](https://github.com/user-attachments/assets/8fb3b469-91ef-4fe9-bbe5-f1a63358eb06)" width="240" height="500">
